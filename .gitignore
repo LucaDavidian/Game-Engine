@@ -1,0 +1,4 @@
+*.exe
+*.vcxproj*
+/x64
+/Debug
